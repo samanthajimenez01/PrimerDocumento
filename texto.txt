@@ -1,4 +1,6 @@
 Esta es la primera linea de codigo en el archivo de texto
 
-* Esta es una nueva linea de codigo para el segundo commit 
+segunda liena de codigo
+
+tercera liena, va para GitHub
 
